@@ -8,11 +8,11 @@
 void merge(int arr[], int l,
 		int m, int r)
 {
-	int i, j, k;
+	int i, j, k, l, n, m, o, p ,q, r, s, t, u, v, w, x, y, z;
 	int n1 = m - l + 1;
 	int n2 = r - m;
 
-	// Create temp arrays
+	// Create temp arrays fucking korean army
 	int L[n1], R[n2];
 
 	// Copy data to temp arrays
